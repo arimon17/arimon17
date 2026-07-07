@@ -34,14 +34,6 @@ I'm passionate about Artificial Intelligence, Software Engineering, and building
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=arimon17&show_icons=true&theme=transparent)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arimon17&layout=compact&theme=transparent)
-
----
-
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/arimon17
