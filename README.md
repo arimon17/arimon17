@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there! 👋 I'm Yosua Arimon
 
-<!--
-**arimon17/arimon17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Engineering Student at Universitas Dhyana Pura
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence, Software Engineering, and building practical applications that solve real-world problems. Currently, I'm expanding my skills in Python, Flutter, and Machine Learning while developing projects to strengthen my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=python,flutter,dart,java,php,html,css,javascript,mysql,git,github,vscode,bootstrap)
+
+---
+
+## 📚 Currently Learning
+
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Flutter Development
+- Software Engineering
+
+---
+
+## 📌 Current Projects
+
+> Most of my projects are currently private as they are under active development or created for academic purposes.
+
+- 🤖 Alice AI *(Private)*
+- 🔐 PKI Simulation *(Private)*
+- 🧠 Expert System *(Private)*
+- 📅 Deadline Radar *(Private)*
+- 💈 Barber Antrian *(Private)*
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=arimon17&show_icons=true&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arimon17&layout=compact&theme=transparent)
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/arimon17
+- LinkedIn: *(Coming Soon)*
+- Email: *yosuaarimonlende170506@gmail.com*
+
+---
+
+> *"Keep learning, keep building, and let your projects speak for themselves."*
